@@ -200,41 +200,57 @@ margin: 10px 0px;
 .op-backolor{
     background-color: #60C880;
     color: white;
-    width: 300px;
-    height: 290px;
+    width: 250px;
+    height: 240px;
     border-radius: 50%;
     text-align: center;
-    border: 50px solid rgb(255, 255, 255);
+    border: 40px solid rgb(255, 255, 255);
 }
 .op-border-border{
     border: 1px black solid;
     border-radius: 50%;
 }
 .op-da-drun{
-    padding-top: 100px;
+    padding-top: 80px;
 }
 .op-h5-iline{
     margin: 10px 0px;
 }
 .op-1{
     position: relative;
-    bottom: 420px;
-    left: 170px;
+    bottom: 350px;
+    left: 134px;
 }
 .op-2{
     position: relative;
     right: 100px;
-    bottom: 230px;
+    bottom: 190px;
 }
 .op-3{
     position: relative;
-    left: 50px;
-    bottom: 30px;
+    left: 9px;
+    bottom: 25px;
 }
 .op-4{
     position: relative;
-    left: 180px;
-    bottom: 240px;
+    left: 110px;
+    bottom: 200px;
+}
+.zaf-img{
+    background-color: #ffffff;
+    border: 1px solid black;
+    width: 160px;
+    height: 70px;
+    margin: 0px;
+    padding: 12px 1px;
+}
+.zaf-obshi{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.g{
+    margin-left: 60px;
 }
 
 
@@ -278,6 +294,7 @@ margin: 10px 0px;
    .boss-obshi{
     width: 350px;
    }
+   
    .boss-text-h5{
     width: 300px;
    }
@@ -288,6 +305,38 @@ margin: 10px 0px;
    .boss-logo{
     margin-left: 20px;
 }
+.op-obshi{
+    flex-direction: column;
+}
+.z{
+    display: none;
+}
+.op-backolor{
+    border: 30px solid white;
+}
+.op-border-border{
+    width: 310px;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.op-1{
+    position: relative;
+    left: 160px;
+    bottom: 340px;
+}
+.op-2{
+    position: relative;
+  right: 60px;
+}
+.op-3{
+    left: 40px;
+}
+.op-4{
+    left: 130px;
+    bottom: 190px;
+}
+
+
 
      
 
