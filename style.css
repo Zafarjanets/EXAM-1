@@ -252,7 +252,28 @@ margin: 10px 0px;
 .g{
     margin-left: 60px;
 }
+.img-flex{
 
+    display: flex;
+}
+.img-flex img{
+    width: 100px;
+}
+.flex-obsh{
+    display: flex;
+    justify-content: space-evenly;
+}
+.flex-obshi{
+    display: flex;
+    margin-left: 60px;
+    margin-top: 20px;
+    
+}
+.olala{
+    display: flex;
+    margin-left: 165px;
+    gap: 65px;
+}
 
 @media( max-width:510px){
 
@@ -335,6 +356,30 @@ margin: 10px 0px;
     left: 130px;
     bottom: 190px;
 }
+.ola21{
+    flex-direction: column;
+}
+.flex-obsh {
+    flex-direction: column;
+    align-items: center;
+    
+}
+.none{
+    display: none;
+}
+.flex-obshi{
+    margin-left: 100px;
+    flex-direction: column;
+    margin-top: 0;
+}
+.olala{
+    flex-direction: column;
+    margin-left: 0px;
+ 
+    gap: 0px;
+}
+
+
 
 
 
