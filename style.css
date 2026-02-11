@@ -129,7 +129,35 @@ margin: 10px 0px;
     color: #60C880;
     margin: 20px;
 }
+.lop{
+    background-color: #1B1E31;
+    padding-bottom:20px ;
+}
+.lop-h1-margin{
+       color: white;
+}
+.d{
+    margin-left: 20px;
+    margin: 20px 10x;
+}
 
+.lop-korobka{
+    border: 1px solid grey;
+    background-color: white;
+    width: 300px;
+    color: black;
+    padding: 20px;
+    
+}
+.lop-korobka img{
+    width: 70px;
+}
+.lopp-korb{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+}
 
 @media( max-width:510px){
 
