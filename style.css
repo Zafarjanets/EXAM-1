@@ -99,6 +99,65 @@ bottom:20px;
     align-items: center;
     gap: 20px;
 }
+.boss-obshi-obshi{
+    margin-left: 100px;
+}
+.boss-h1-margin{
+margin: 10px 0px;    
+}
+.boss-obshi{
+    border: 1px solid black;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    padding: 25px;
+
+}
+.boss-img img{
+      width: 70px;
+}
+.boss-otprav{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.boss-text-h5{
+    width: 600px;
+    margin: 10px 0px;
+}
+.aa{
+    color: #60C880;
+    margin: 20px;
+}
+.lop{
+    background-color: #1B1E31;
+    padding-bottom:20px ;
+}
+.lop-h1-margin{
+       color: white;
+}
+.d{
+    margin-left: 20px;
+    margin: 20px 10x;
+}
+
+.lop-korobka{
+    border: 1px solid grey;
+    background-color: white;
+    width: 300px;
+    color: black;
+    padding: 20px;
+    
+}
+.lop-korobka img{
+    width: 70px;
+}
+.lopp-korb{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+}
 
 @media( max-width:510px){
 
@@ -137,6 +196,20 @@ bottom:20px;
    .top-text-h5{
     width: 350px;
    }
+   .boss-obshi{
+    width: 350px;
+   }
+   .boss-text-h5{
+    width: 300px;
+   }
+   .boss-obshi-obshi{
+    margin-left: -10px;
+    margin-top: 50px;
+   }
+   .boss-logo{
+    margin-left: 20px;
+}
+
      
 
 
