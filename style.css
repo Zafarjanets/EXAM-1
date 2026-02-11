@@ -274,7 +274,28 @@ margin: 10px 0px;
     margin-left: 165px;
     gap: 65px;
 }
-
+.img-border1{
+    border: 1px solid black;
+    width: 250px;
+    padding: 20px;
+}
+.img-border1 img{
+    width: 250px;
+}
+.obw-img{
+    display: flex;
+    justify-content: center;
+}
+.k{
+    margin-left: 90px;
+}
+.fle{
+    display: flex;
+    align-items: center;
+}
+.kl{
+    margin-left: 600px;
+}
 @media( max-width:510px){
 
    .all-menu{
@@ -364,7 +385,7 @@ margin: 10px 0px;
     align-items: center;
     
 }
-.none{
+.none,.kl,.l1{
     display: none;
 }
 .flex-obshi{
